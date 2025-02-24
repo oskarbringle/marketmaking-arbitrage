@@ -1,0 +1,21 @@
+# IDE & Editor files
+.vscode/
+
+# macOS system files
+.DS_Store
+
+# Node modules
+node_modules/
+
+# Build directories
+build/
+dist/
+
+# OS generated files
+Thumbs.db
+
+# Logs
+*.log
+
+# Other specific files
+*.env
