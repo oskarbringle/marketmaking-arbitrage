@@ -1,3 +1,4 @@
 *.make -linguist-detectable
 *.mk -linguist-detectable
 *.d -linguist-detectable
+*.cmake -linguist-detectable
