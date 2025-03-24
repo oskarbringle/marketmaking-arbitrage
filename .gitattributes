@@ -1,1 +1,1 @@
-vcpkg/* linguist-vendored
+*.make -linguist-detectable
